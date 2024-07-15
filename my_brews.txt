@@ -1,0 +1,13 @@
+awscli
+figlet
+gcc
+gh
+jq
+k9s
+kubecolor
+kubectx
+lolcat
+python@3.12
+yq
+node
+npm

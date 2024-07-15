@@ -1,0 +1,9 @@
+DefaultBrowser = "CHROME"
+CustomBrowserPath = "/../../mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
+CustomSSOBrowserPath = ""
+Ordering = ""
+ExportCredentialSuffix = ""
+CredentialProcessAutoLogin = true
+
+[Keyring]
+  Backend = "pass"
