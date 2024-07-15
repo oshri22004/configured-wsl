@@ -1,14 +1,14 @@
 ## Configured WSL
 
-This project configured wsl for DevOps/SRE/Developers...
-Installing important plugins, extentins and tools.
-Python, node, k9s, brew, granted and more...
+This project configured wsl for DevOps/SRE/Developers...  
+Installing important plugins, extentins and tools.  
+Python, node, k9s, brew, granted and more...  
 
-pre-request:
-WSL 2
-oh-my-zsh(installed in WSL)
-[Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=he-il&gl=IL)
-[NerdFonts](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts).  
+pre-request:  
+WSL 2  
+oh-my-zsh(installed in WSL)  
+[Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=he-il&gl=IL)  
+[NerdFonts](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts).    
 
 ### First step install oh-my-zsh:  
 In WSL:  
@@ -34,8 +34,8 @@ p10k configure
 ```  
 
 ### EXTRA SCRIPT
-This script will configured your kubeconfig and .aws/config files, you need to change the fields in the script that is in "TODO:".
-In addition it will make aliases of assume+kubectx and you can change them as you like in the script(run this script as many times as you like).
+This script will configured your kubeconfig and .aws/config files, you need to change the fields in the script that is in "TODO:".  
+In addition it will make aliases of assume+kubectx and you can change them as you like in the script(run this script as many times as you like).  
 ```
 cd configured-wsl
 chmod +x config-aws-kube.sh
