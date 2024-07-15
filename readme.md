@@ -4,6 +4,8 @@ This project configured wsl for DevOps/SRE/Developers...
 Installing important plugins, extentins and tools.  
 Python, node, k9s, brew, granted and more...  
 
+![alt text](imgs/wsl.png)
+
 ### pre-request:  
 WSL 2  
 oh-my-zsh(installed in WSL)  
