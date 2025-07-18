@@ -1,0 +1,33 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# User-specific files
+.zshrc.backup
+.zshrc.local
+.p10k.zsh
+.aws/credentials
+.kube/config
+
+# System-specific paths
+/mnt/c/
+
+# Test files
+test_*

@@ -1,0 +1,33 @@
+# Essential Development Tools
+awscli
+figlet
+gcc
+gh
+jq
+k9s
+kubecolor
+kubectx
+lolcat
+python@3.12
+yq
+node
+npm
+
+# Additional DevOps Tools
+terraform
+helm
+docker-compose
+dive
+
+# Productivity Tools
+bat
+exa
+fd
+ripgrep
+tree
+htop
+
+# Network Tools
+nmap
+tcpdump
+netcat
